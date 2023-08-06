@@ -1,5 +1,5 @@
 # 2023-1 네트워크프로그래밍 프로젝트
-##NP-Project
+##NP-Project 
 ---
 ### Smart plug packetpyt
 - [x] scapy 로 패킷 끌어오기
@@ -11,6 +11,7 @@
 - [x] client 터미널에서 IP_P100, email, password 입력받고 패턴 입력
 - [x] select를 통한 다중통신 구현
 - [x] 보고서 작성
+- [ ] ui
 
 ##Pow 분산실행,단독실행
 ---
